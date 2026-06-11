@@ -1,0 +1,34 @@
+📊 Statistical Quality Control Analysis
+This project applies Statistical Quality Control (SQC) techniques to monitor and evaluate process stability using X̄ (X-Bar) Control Charts and R (Range) Control Charts. The analysis aims to determine whether the production process is statistically under control and to identify potential special-cause variations that may affect product quality.
+
+Analysis Performed:
+Processing quality data based on observation subgroups
+Calculating sample means (X̄) and ranges (R)
+Determining the Center Line (CL)
+Calculating the Upper Control Limit (UCL)
+Calculating the Lower Control Limit (LCL)
+Constructing X̄ and R Control Charts
+Evaluating process stability through control chart analysis
+Interpreting quality control results
+The analysis demonstrates how SQC can be used to assess whether a process remains within established control limits. By utilizing control charts, process variation can be monitored systematically, enabling early detection of quality issues and supporting continuous process improvement.
+
+Tools & Methods:
+Microsoft Excel
+Statistical Quality Control (SQC)
+X̄ Control Chart
+R Control Chart
+Descriptive Statistics
+Process Monitoring
+Quality Analysis
+
+Through this project, I developed skills in:
+Statistical Quality Control
+Quality Assurance Analysis
+Data Analysis
+Process Monitoring
+Statistical Interpretation
+Microsoft Excel
+Data Visualization
+Problem Solving
+
+#DataAnalysis #Statistics #StatisticalQualityControl #SQC #QualityControl #QualityAssurance #ControlChart #XbarChart #RChart #ProcessImprovement #Excel #MicrosoftExcel #StatisticalAnalysis #DataVisualization #IndustrialStatistics #Portfolio #DataScience #QualityManagement #ProcessControl #ManufacturingAnalytics
